@@ -1,2 +1,2 @@
 # C-to-F
- Convert Celcius to Fahrenheit
+ A simple JavaScript program used to convert Celcius to Fahrenheit
